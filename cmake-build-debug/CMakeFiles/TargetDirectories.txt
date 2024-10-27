@@ -1,0 +1,5 @@
+C:/develop/Clion/Clion projects/surgery/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/develop/Clion/Clion projects/surgery/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/develop/Clion/Clion projects/surgery/cmake-build-debug/src/CMakeFiles/surgery.dir
+C:/develop/Clion/Clion projects/surgery/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/develop/Clion/Clion projects/surgery/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
